@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.LoginActivity"
+    android:orientation="vertical"
+    android:background="@color/colorWhiteffffff">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvJudulLogin"
+        android:text="The Movies Apps"
+        android:textSize="@dimen/_14ssp"
+        android:textColor="@color/colorGreen4caf50"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_200sdp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnStarted"
+        android:text="Let's Started"
+        android:textColor="@color/colorWhiteffffff"
+        android:layout_marginRight="@dimen/_40sdp"
+        android:layout_marginLeft="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@drawable/rounded_button" />
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00AEEF</color>
+    <color name="colorPrimaryDark">#00AEEF</color>
+    <color name="colorAccent">#00AEEF</color>
+    <color name="colorBlue1172b9">#1172b9</color>
+    <color name="colorBlue4fbcd0">#4fbcd0</color>
+    <color name="colorBlue2196f3">#2196f3</color>
+    <color name="colorGrayb8b8b8">#b8b8b8</color>
+    <color name="colorGraye6e6e6">#e6e6e6</color>
+    <color name="colorGray4d4d4d">#4d4d4d</color>
+    <color name="colorGreen4caf50">#4caf50</color>
+    <color name="colorRede53935">#e53935</color>
+    <color name="colorWhiteffffff">#ffffff</color>
+    <color name="colorBlueBasic">#0082B3</color>
+    <color name="colorblack">#000000</color>
+    <color name="background">#f3f3f3</color>
+    <color name="btngray">#9B9B9B</color>
+    <color name="btnorange">#FA8500</color>
+    <color name="btngreenbaby">#78C100</color>
+    <color name="btngreen">#2BBB4C</color>
+    <color name="btnredbaby">#FFC7C7</color>
+    <color name="btnbluebaby">#EBF7FC</color>
+    <color name="btnblue">#00AEEF</color>
+    <color name="btnred">#e53935</color>
+    <color name="colorwhitef3f3f3">#F3F3F3</color>
+    <color name="newgraycolor">#F1F1F1</color>
+    <color name="newBlackColor">#222222</color>
+    <color name="newGrayTextView">#9B9B9B</color>
+</resources>
